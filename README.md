@@ -1,6 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# Hi, I'm Siddhant Mohan Dash! 👋
 
+## 🚀 Frontend Developer | React.js Enthusiast
+
+I'm a passionate **Frontend Developer** with a strong foundation in building **responsive and user-friendly web applications**. With a background in **mechanical engineering**, I made a transition into the world of web development, leveraging my problem-solving skills to craft **efficient and scalable solutions**.
+
+### 💡 About Me
+- 🖥️ Skilled in **HTML, CSS, JavaScript, React.js, Bootstrap, and Node.js**.
+- ⚡ Passionate about creating **interactive and accessible web applications**.
+- 📈 Constantly improving my skills in **frontend performance optimization and UX/UI design**.
+- 🎯 Strong problem-solver who thrives on learning new technologies and frameworks.
+
+💡 *Always learning, always building!* 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_._siddhant._._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhant-mohan-dash-b95b97184) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24031037) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Siddhantdash1212@gmail.com) 
