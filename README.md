@@ -1,26 +1,72 @@
-<h1 align="center">Hi 👋, I'm Siddhant Mohan Dash</h1>
-<h3 align="center">A passionate web developer and designer from India</h3>
-<img align="right" alt="Coding" width="500" src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
+### Hi there, I'm **Siddhant Mohan Dash** 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinothkumar2911&label=Profile%20views&color=0e75b6&style=flat" alt="vinothkumar2911" /> </p>
+🚀 **Frontend Developer | Problem Solver | Tech Enthusiast**  
+📍 Bengaluru, India  
+💻 Passionate about **building intuitive & scalable web experiences**  
 
-- 📫 How to reach me *siddhantdash1212@gmail.com*
+---
 
-- ⚡ Fun fact *I am funny*
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/siddhant-mohan-dash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhant-mohan-dash" height="30" width="40" /></a>
-<a href="https://instagram.com/_._siddhant._._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._siddhant._._" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Siddhant-m-dash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Siddhant Mohan Dash" height="30" width="40" /></a>
-<a href="https://discord.gg/ianimagus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ianimagus" height="30" width="40" /></a>
+### **Frontend**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### **Backend & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinothkumar2911&show_icons=true&locale=en&layout=compact" alt="vinothkumar2911" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinothkumar2911&show_icons=true&locale=en" alt="vinothkumar2911" /></p>
+## 📌 About Me
+🔹 **Results-driven frontend developer** with a focus on **performance & accessibility**  
+🔹 Experienced in **React.js, JavaScript, HTML, CSS, and Bootstrap**  
+🔹 Passionate about **solving complex UI challenges & improving user experience**  
+🔹 Always learning & staying updated with **modern web development trends**  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinothkumar2911&" alt="vinothkumar2911" /></p>
+---
+
+## 🔥 Work Experience
+
+### Frontend Intern - **A2R Software Consulting** (Jan 2024 - Feb 2025)  
+- Developed & optimized a **React.js** e-commerce website, improving **performance by 30%**.  
+- Built **modular UI components**, reducing development time for future projects by **40%**.  
+- Debugged & resolved **90%+ JavaScript and UI rendering issues**, ensuring smooth performance.  
+- Ensured **99% cross-browser compatibility**, improving user engagement.  
+
+### Associate Engineer - **Larsen & Toubro Technology Services** (Mar 2023 - Dec 2023)  
+- Designed **50+ high-precision mechanical components**, increasing efficiency by **15%**.  
+- Optimized CAD models, enhancing **product lifecycle by 20%**.  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddhant-ani&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhant-ani&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant-ani&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🌍 Connect with Me
+<p>
+  <a href="https://github.com/Siddhant-ani"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/siddhant-mohan-dash"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:siddhantdash1212@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+🚀 **Let's build something amazing together!** 🎯
