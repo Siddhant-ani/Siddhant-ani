@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Vinoth Kumar S</h1>
+<h1 align="center">Hi 👋, I'm Siddhant Mohan Dash</h1>
 <h3 align="center">A passionate web developer and designer from India</h3>
 <img align="right" alt="Coding" width="500" src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinothkumar2911&label=Profile%20views&color=0e75b6&style=flat" alt="vinothkumar2911" /> </p>
 
-- 📫 How to reach me *samuthirarjvinoth@gmail.com*
+- 📫 How to reach me *siddhantdash1212@gmail.com*
 
 - ⚡ Fun fact *I am funny*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vinoth-kumar-436293226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinoth-kumar-436293226" height="30" width="40" /></a>
-<a href="https://instagram.com/._t.e.d.d.y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="._t.e.d.d.y" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/teddy2911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="teddy2911" height="30" width="40" /></a>
-<a href="https://discord.gg/t.e.d.d.y." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="t.e.d.d.y." height="30" width="40" /></a>
+<a href="www.linkedin.com/in/siddhant-mohan-dash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhant-mohan-dash" height="30" width="40" /></a>
+<a href="https://instagram.com/_._siddhant._._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._siddhant._._" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Siddhant-m-dash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Siddhant Mohan Dash" height="30" width="40" /></a>
+<a href="https://discord.gg/ianimagus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ianimagus" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
