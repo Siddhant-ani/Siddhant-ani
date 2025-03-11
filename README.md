@@ -34,19 +34,6 @@
 
 ---
 
-## 🔥 Work Experience
-
-### Frontend Intern - **A2R Software Consulting** (Jan 2024 - Feb 2025)  
-- Developed & optimized a **React.js** e-commerce website, improving **performance by 30%**.  
-- Built **modular UI components**, reducing development time for future projects by **40%**.  
-- Debugged & resolved **90%+ JavaScript and UI rendering issues**, ensuring smooth performance.  
-- Ensured **99% cross-browser compatibility**, improving user engagement.  
-
-### Associate Engineer - **Larsen & Toubro Technology Services** (Mar 2023 - Dec 2023)  
-- Designed **50+ high-precision mechanical components**, increasing efficiency by **15%**.  
-- Optimized CAD models, enhancing **product lifecycle by 20%**.  
-
----
 
 ## 📊 GitHub Stats
 
